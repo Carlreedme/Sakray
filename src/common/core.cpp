@@ -284,14 +284,16 @@ static void display_title(void) {
 
 	ShowMessage("\n");
 	ShowMessage("" CL_PASS "     " CL_BOLD "                                                                 " CL_PASS"" CL_CLL "" CL_NORMAL "\n");
-	ShowMessage("" CL_PASS "       " CL_BT_WHITE "            rAthena Development Team presents                  " CL_PASS "" CL_CLL "" CL_NORMAL "\n");
-	ShowMessage("" CL_PASS "     " CL_BOLD "                 ___   __  __                                    " CL_PASS "" CL_CLL "" CL_NORMAL "\n");
-	ShowMessage("" CL_PASS "     " CL_BOLD "           _____/   | / /_/ /_  ___  ____  ____ _                " CL_PASS "" CL_CLL "" CL_NORMAL "\n");
-	ShowMessage("" CL_PASS "     " CL_BOLD "          / ___/ /| |/ __/ __ \\/ _ \\/ __ \\/ __ `/                " CL_PASS "" CL_CLL "" CL_NORMAL "\n");
-	ShowMessage("" CL_PASS "     " CL_BOLD "         / /  / ___ / /_/ / / /  __/ / / / /_/ /                 " CL_PASS "" CL_CLL "" CL_NORMAL "\n");
-	ShowMessage("" CL_PASS "     " CL_BOLD "        /_/  /_/  |_\\__/_/ /_/\\___/_/ /_/\\__,_/                  " CL_PASS "" CL_CLL "" CL_NORMAL "\n");
-	ShowMessage("" CL_PASS "     " CL_BOLD "                                                                 " CL_PASS "" CL_CLL "" CL_NORMAL "\n");
-	ShowMessage("" CL_PASS "       " CL_GREEN "              http://rathena.org/board/                        " CL_PASS "" CL_CLL "" CL_NORMAL "\n");
+	ShowMessage("" CL_PASS "       " CL_BT_WHITE "            rSakray Development Team presents                  " CL_PASS "" CL_CLL "" CL_NORMAL "\n");
+	ShowMessage("" CL_PASS "     " CL_BOLD "               _____       _                                      " CL_PASS "" CL_CLL "" CL_NORMAL "\n");
+	ShowMessage("" CL_PASS "     " CL_BOLD "              / ____|     | |                                     " CL_PASS "" CL_CLL "" CL_NORMAL "\n");
+	ShowMessage("" CL_PASS "     " CL_BOLD "             | (___   __ _| | ___ __ __ _ _   _                   " CL_PASS "" CL_CLL "" CL_NORMAL "\n");
+	ShowMessage("" CL_PASS "     " CL_BOLD "              \___ \ / _` | |/ / '__/ _` | | | |                  " CL_PASS "" CL_CLL "" CL_NORMAL "\n");
+	ShowMessage("" CL_PASS "     " CL_BOLD "              ____) | (_| |   <| | | (_| | |_| |                  " CL_PASS "" CL_CLL "" CL_NORMAL "\n");
+	ShowMessage("" CL_PASS "     " CL_BOLD "             |_____/ \__,_|_|\_\_|  \__,_|\__, |                  " CL_PASS "" CL_CLL "" CL_NORMAL "\n");
+	ShowMessage("" CL_PASS "     " CL_BOLD "                                           __/ |                  " CL_PASS "" CL_CLL "" CL_NORMAL "\n");
+	ShowMessage("" CL_PASS "     " CL_BOLD "                                          |___/                   " CL_PASS "" CL_CLL "" CL_NORMAL "\n");
+	ShowMessage("" CL_PASS "       " CL_GREEN "              http://ragnarokuk.com/board/                      " CL_PASS "" CL_CLL "" CL_NORMAL "\n");
 	ShowMessage("" CL_PASS "     " CL_BOLD "                                                                 " CL_PASS "" CL_CLL "" CL_NORMAL "\n");
 
 	if( svn[0] != UNKNOWN_VERSION )
